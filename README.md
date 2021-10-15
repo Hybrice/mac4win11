@@ -10,10 +10,10 @@ A custom keyboard layout for Windows 11, mapped for Mac keyboards and compiled u
 3. Scan the files using Windows Defender (because you always should)
 4. Run the setup.exe to install the keyboard layout
 5. Navigate to:
-    Settings
-    Typing Settings (use search if you can't see it)
-    Advanced Keyboard Settings
-    Set your keyboard layout to "United Kingdom - Mac for Windows 11"
+    1. Settings
+    2. Typing Settings (use search if you can't see it)
+    3. Advanced Keyboard Settings
+    4. Set your keyboard layout to "United Kingdom - Mac for Windows 11"
 6. That's it!
 
 "#" and "€" can be accssed by pressing Ctrl/Control and Alt/Option then 2 or 3 respectively, or use the right-side Alt/Option key (which counts as both Ctrl and Alt), either works.
