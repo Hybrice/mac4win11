@@ -4,6 +4,8 @@ Does your Mac keyboard turn into an Enigma machine when used on Windows? Fix it 
 
 A custom keyboard layout for Windows 11, mapped for Mac keyboards and compiled using Microsoft Keyboard Layout Creator 1.4
 
+Backwards compatible with Windows 7, 8 and 10
+
 # Instructions
 1. Download the "mac4win11.zip" compressed file to your local machine
 2. Unzip it
