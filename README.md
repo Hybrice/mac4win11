@@ -22,4 +22,6 @@ Backwards compatible with Windows 7, 8 and 10
 
 If you wish to remove the keyboard layout, first change your selected layout to something else, then remove it via "add or remove programs"
 
+Source file included if you wish to make any changes - requires Microsoft Keyboard Layout Creator 1.4 to open it
+
 Enjoy :)
